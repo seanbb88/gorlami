@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/gorlami/public/index.html/static/css/main.55c17744.css",
-    "main.js": "/gorlami/public/index.html/static/js/main.c48a0609.js",
-    "static/media/tad.jpg": "/gorlami/public/index.html/static/media/tad.db5707b13b7a56238908.jpg",
-    "static/media/jb.jpg": "/gorlami/public/index.html/static/media/jb.60df659e3dbc9b13fa38.jpg",
-    "static/media/me.jpg": "/gorlami/public/index.html/static/media/me.51b0347f47dd2418c4d2.jpg",
-    "static/media/andre.jpg": "/gorlami/public/index.html/static/media/andre.e771ed007fd80805ba98.jpg",
-    "static/media/TheBlackFestival-DEMO 2.ttf": "/gorlami/public/index.html/static/media/TheBlackFestival-DEMO 2.ba642ed1e49897f0c375.ttf",
-    "index.html": "/gorlami/public/index.html/index.html",
-    "main.55c17744.css.map": "/gorlami/public/index.html/static/css/main.55c17744.css.map",
-    "main.c48a0609.js.map": "/gorlami/public/index.html/static/js/main.c48a0609.js.map"
+    "main.css": "/static/css/main.fbd745df.css",
+    "main.js": "/static/js/main.b9d044ff.js",
+    "static/media/tad.jpg": "/static/media/tad.db5707b13b7a56238908.jpg",
+    "static/media/jb.jpg": "/static/media/jb.60df659e3dbc9b13fa38.jpg",
+    "static/media/me.jpg": "/static/media/me.51b0347f47dd2418c4d2.jpg",
+    "static/media/andre.jpg": "/static/media/andre.e771ed007fd80805ba98.jpg",
+    "static/media/TheBlackFestival-DEMO 2.ttf": "/static/media/TheBlackFestival-DEMO 2.ba642ed1e49897f0c375.ttf",
+    "index.html": "/index.html",
+    "main.fbd745df.css.map": "/static/css/main.fbd745df.css.map",
+    "main.b9d044ff.js.map": "/static/js/main.b9d044ff.js.map"
   },
   "entrypoints": [
-    "static/css/main.55c17744.css",
-    "static/js/main.c48a0609.js"
+    "static/css/main.fbd745df.css",
+    "static/js/main.b9d044ff.js"
   ]
 }
