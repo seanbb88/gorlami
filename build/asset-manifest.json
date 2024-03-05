@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/gorlami_llc/public/index.html/static/css/main.a3ef6dd6.css",
-    "main.js": "/gorlami_llc/public/index.html/static/js/main.8e4f6d93.js",
-    "static/media/tad.jpg": "/gorlami_llc/public/index.html/static/media/tad.db5707b13b7a56238908.jpg",
-    "static/media/jb.jpg": "/gorlami_llc/public/index.html/static/media/jb.60df659e3dbc9b13fa38.jpg",
-    "static/media/me.jpg": "/gorlami_llc/public/index.html/static/media/me.51b0347f47dd2418c4d2.jpg",
-    "static/media/andre.jpg": "/gorlami_llc/public/index.html/static/media/andre.e771ed007fd80805ba98.jpg",
-    "static/media/TheBlackFestival-DEMO 2.ttf": "/gorlami_llc/public/index.html/static/media/TheBlackFestival-DEMO 2.ba642ed1e49897f0c375.ttf",
-    "index.html": "/gorlami_llc/public/index.html/index.html",
-    "main.a3ef6dd6.css.map": "/gorlami_llc/public/index.html/static/css/main.a3ef6dd6.css.map",
-    "main.8e4f6d93.js.map": "/gorlami_llc/public/index.html/static/js/main.8e4f6d93.js.map"
+    "main.css": "/gorlami/public/index.html/static/css/main.55c17744.css",
+    "main.js": "/gorlami/public/index.html/static/js/main.c48a0609.js",
+    "static/media/tad.jpg": "/gorlami/public/index.html/static/media/tad.db5707b13b7a56238908.jpg",
+    "static/media/jb.jpg": "/gorlami/public/index.html/static/media/jb.60df659e3dbc9b13fa38.jpg",
+    "static/media/me.jpg": "/gorlami/public/index.html/static/media/me.51b0347f47dd2418c4d2.jpg",
+    "static/media/andre.jpg": "/gorlami/public/index.html/static/media/andre.e771ed007fd80805ba98.jpg",
+    "static/media/TheBlackFestival-DEMO 2.ttf": "/gorlami/public/index.html/static/media/TheBlackFestival-DEMO 2.ba642ed1e49897f0c375.ttf",
+    "index.html": "/gorlami/public/index.html/index.html",
+    "main.55c17744.css.map": "/gorlami/public/index.html/static/css/main.55c17744.css.map",
+    "main.c48a0609.js.map": "/gorlami/public/index.html/static/js/main.c48a0609.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3ef6dd6.css",
-    "static/js/main.8e4f6d93.js"
+    "static/css/main.55c17744.css",
+    "static/js/main.c48a0609.js"
   ]
 }
