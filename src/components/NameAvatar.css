@@ -1,0 +1,7 @@
+.avatar {
+	transform: rotateY(0deg) rotate(45deg);
+}
+
+.avatar-initials {
+	transform: rotateY(0deg) rotate(-45deg);
+}

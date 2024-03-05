@@ -1,0 +1,17 @@
+/* purgecss start ignore */
+@tailwind base;
+@tailwind components;
+/* purgecss end ignore */
+@tailwind utilities;
+
+@layer base {
+	body {
+		font-family: theme("fontFamily.sans");
+		background-color: #191e25;
+		-ms-overflow-style: none; /* Internet Explorer 10+ */
+		scrollbar-width: none; /* Firefox */
+	}
+	body::-webkit-scrollbar {
+		display: none; /* Safari and Chrome */
+	}
+}

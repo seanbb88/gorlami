@@ -1,0 +1,44 @@
+.appContainer {
+	overflow-x: hidden;
+}
+
+/* Loader Styling */
+.page-loader {
+	-webkit-animation: fadeinout 3s linear forwards;
+	animation: fadeinout 3s linear forwards;
+	position: absolute;
+	top: 35%;
+	left: 46%;
+}
+
+@-webkit-keyframes fadeinout {
+	0%,
+	100% {
+		opacity: 0;
+	}
+	50% {
+		opacity: 1;
+	}
+}
+
+@keyframes fadeinout {
+	0%,
+	100% {
+		opacity: 0;
+	}
+	50% {
+		opacity: 1;
+	}
+}
+
+@media only screen and (max-width: 640px) {
+	.page-loader {
+		left: 43%;
+	}
+}
+
+@media only screen and (max-width: 415px) {
+	.page-loader {
+		left: 37%;
+	}
+}

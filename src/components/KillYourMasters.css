@@ -1,0 +1,71 @@
+.KillYourMastersContainer {
+	animation: fadeIn 3s;
+	min-width: 1258px;
+}
+
+@keyframes rotate {
+	0% {
+		transform: rotate(0deg);
+	}
+
+	100% {
+		transform: rotate(360deg);
+	}
+}
+
+@keyframes rotate-backwards {
+	0% {
+		transform: rotate(360deg);
+	}
+
+	100% {
+		transform: rotate(0deg);
+	}
+}
+
+.star {
+	animation: 2.5s rotate infinite;
+	animation-timing-function: linear;
+}
+
+.star-opposite {
+	animation: 2.5s rotate-backwards infinite;
+	animation-timing-function: linear;
+}
+
+.star-opposite,
+.star {
+	width: 30px;
+	height: 30px;
+	background: theme("colors.coolGray.100");
+}
+
+.star:after {
+	content: "";
+	display: block;
+	width: 30px;
+	height: 30px;
+	background: theme("colors.coolGray.100");
+	transform: rotate(45deg);
+}
+
+@font-face {
+	font-family: myFirstFont;
+	src: url("../assets/TheBlackFestival-DEMO\ 2.ttf");
+}
+
+.KillMastersFont {
+	animation: fadeIn 3s;
+	white-space: nowrap;
+	font-family: myFirstFont;
+}
+
+@keyframes fadeIn {
+	0% {
+		opacity: 0;
+	}
+
+	100% {
+		opacity: 1;
+	}
+}

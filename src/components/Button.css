@@ -1,0 +1,18 @@
+.red {
+	color: theme("colors.red.300");
+	border: solid 1px theme("colors.red.300");
+}
+
+.red:hover {
+	color: theme("colors.coolGray.100");
+}
+
+.white {
+	color: theme("colors.coolGray.100");
+	border: solid 1px theme("colors.coolGray.100");
+}
+
+.white:hover {
+	color: theme("colors.coolGray.600");
+	background: theme("colors.coolGray.100");
+}
